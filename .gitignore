@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+currency_log_returns_corona.csv
+currency_log_returns_pre_corona.csv
+distance_correlations_corona.csv
+distance_correlations_pre_corona.csv
